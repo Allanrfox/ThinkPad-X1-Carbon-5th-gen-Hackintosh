@@ -89,3 +89,4 @@ Thunderbolt 3: I'm dumb so this is gonna take a while to be fixed (If i even att
 Fingerprint reader: Not a surprise, (if only booting macOS, I would recommned you disable it in the BIOS, it'll help you save some battery life
 
 
+(little secret, french and spanish translations eta son)
