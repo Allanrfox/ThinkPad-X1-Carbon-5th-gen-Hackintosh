@@ -5,7 +5,7 @@ This is Mostly and effort of mine to actively backup my EFIs, though you're free
 
 My Model:
 
-My Model is Equipped with an I7-7600U, 16GB of RAM, a Toshiba NVMe drive, Intel WiFi & Bluetooth and Conexant CX8200 audio
+My Model is Equipped with an I7-7600U, with HD 620 (not UHD 620) 16GB of RAM, a Toshiba NVMe drive, Intel WiFi & Bluetooth and Conexant CX8200 audio
 
 I have tested this EFI in both macOS Big Sur (11.2 to make the USBmap that I subsequently lost, I'm gonna make it again, I promise) and macOS Monterey (Beta 6)
 
