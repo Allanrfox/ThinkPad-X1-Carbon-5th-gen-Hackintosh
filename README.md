@@ -1,9 +1,11 @@
 # ThinkPad-X1-Carbon-5th-gen-Hackintosh
 ThinkPad X1 Carbon 5th gen EFI
 
+Notice: The Monterey EFI will come without airportitlwn cuz github fails to upload the EFI with it inside (https://github.com/OpenIntelWireless/itlwm/releases/download/v2.0.0/AirportItlwm_v2.0.0_stable_Monterey.kext.zip) <---- official repo link to the monterey compatible kext
+
 This is Mostly and effort of mine to actively backup my EFIs, though you're free to use them I can't guarantee everything will work correctly (Even if we have the exact same hardware),
 
-My Model:
+#My Model:
 
 My Model is Equipped with an I7-7600U, with HD 620 (not UHD 620) 16GB of RAM, a Toshiba NVMe drive, Intel WiFi & Bluetooth and Conexant CX8200 audio
 
@@ -84,5 +86,6 @@ Brightness control: I seriously can't figure it out, most i got as sign of my ef
 
 Thunderbolt 3: I'm dumb so this is gonna take a while to be fixed (If i even attempt to do it at all)
 
-Fingerprint reader: Not a surprise, (if only booting macOS, I would recommned you disable it in the BIOS, it'll help you save some battery life)
+Fingerprint reader: Not a surprise, (if only booting macOS, I would recommned you disable it in the BIOS, it'll help you save some battery life
+
 
