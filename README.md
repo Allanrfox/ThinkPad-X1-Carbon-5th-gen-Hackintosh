@@ -14,6 +14,8 @@ I have tested this EFI in both macOS Big Sur (11.2 to make the USBmap that I sub
 They both have varying degrees of annoyances (aka stuff I haven't fixed yet) and those are 
 
 (macOS Big Sur)
+![Capture_decran_2021-09-04_a_3 03 31_PM](https://user-images.githubusercontent.com/76212533/132252086-d36c3e65-43b0-491f-a2f3-179248bdbfb6.png)
+
 
 What works:
 
@@ -53,6 +55,8 @@ Fingerprint reader: Not a surprise, (if only booting macOS, I would recommned yo
 
 
 macOS Monterey (b6)
+![Capture_decran_2021-09-05_a_2 54 10_PM](https://user-images.githubusercontent.com/76212533/132252022-39252a8c-8de8-4a5f-abac-d971d2b6977d.png)
+
 
 So i'll just copy paste what works and just remove it according to what's broken lol 
 
