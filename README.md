@@ -1,8 +1,6 @@
 # ThinkPad-X1-Carbon-5th-gen-Hackintosh
 ThinkPad X1 Carbon 5th gen EFI
 
-Notice: The Monterey EFI will come without airportitlwn cuz github fails to upload the EFI with it inside (https://github.com/OpenIntelWireless/itlwm/releases/download/v2.0.0/AirportItlwm_v2.0.0_stable_Monterey.kext.zip) <---- official repo link to the monterey compatible kext
-
 This is Mostly and effort of mine to actively backup my EFIs, though you're free to use them I can't guarantee everything will work correctly (Even if we have the exact same hardware),
 
 #My Model:
