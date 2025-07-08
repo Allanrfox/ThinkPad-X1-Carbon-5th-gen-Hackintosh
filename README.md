@@ -8,11 +8,11 @@ End of the line for my machine
 
 Life has been fun with this machine, I will update this for a bit as i finish fixing sleep but everything else has mostly been fixed (Except USB C hotplugging, never figured out how to do so)
 
-##My Model:
+***My Model***:
 
 My Model is Equipped with an I7-7600U, with HD 620 (not UHD 620) 16GB of RAM, a Toshiba NVMe drive, Intel WiFi & Bluetooth and Conexant CX8200 audio
 
-What works:
+*What works*:
 
 Sound/Mic (not on Tahoe B2 obviously but it does work on any other version you install)
 
