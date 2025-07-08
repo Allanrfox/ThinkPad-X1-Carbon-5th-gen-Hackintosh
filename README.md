@@ -6,7 +6,7 @@ End of the line for my machine
 
 ![スクリーンショット 2025-07-07 午後9 16 41](https://github.com/user-attachments/assets/38f89c98-cd6e-45c9-8ce6-d17d9c83caef)
 
-Life has been fun with this machine, I will update this for a bit as i finish fixing sleep but everything else has mostly been fixed (Except USB C hotplugging, never figured out how to do so)
+Life has been fun with this machine, I will update this for a bit as i finish fixing sleep (only a problem on Tahoe) but everything else has mostly been fixed (Except USB C hotplugging, never figured out how to do so)
 
 ![スクリーンショット 2025-07-07 午後9 36 05](https://github.com/user-attachments/assets/f43941a8-5e0e-45ea-9dca-ca41f7983acc)
 
