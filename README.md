@@ -8,7 +8,7 @@ End of the line for my machine
 
 Life has been fun with this machine, I will update this for a bit as i finish fixing sleep but everything else has mostly been fixed (Except USB C hotplugging, never figured out how to do so)
 
-#My Model:
+##My Model:
 
 My Model is Equipped with an I7-7600U, with HD 620 (not UHD 620) 16GB of RAM, a Toshiba NVMe drive, Intel WiFi & Bluetooth and Conexant CX8200 audio
 
@@ -32,7 +32,7 @@ Internal Periferals behave gloriously with the combination of VoodooPS2 and Vood
 
 Camera
 
-(What doesn't work:
+*What doesn't work*:
 
 Thunderbolt 3: Won't attempt to fix, don't even own any thunderbolt accesories to try
 
