@@ -8,6 +8,9 @@ End of the line for my machine
 
 Life has been fun with this machine, I will update this for a bit as i finish fixing sleep but everything else has mostly been fixed (Except USB C hotplugging, never figured out how to do so)
 
+![スクリーンショット 2025-07-07 午後9 36 05](https://github.com/user-attachments/assets/f43941a8-5e0e-45ea-9dca-ca41f7983acc)
+
+Github Data Limiting harder than Discord moment ---> Google Drive Dl: https://drive.google.com/file/d/13BPmRqDjJP-cyobh8WFdfNn8wK6dVwkE/view?usp=sharing
 ***My Model***:
 
 My Model is Equipped with an I7-7600U, with HD 620 (not UHD 620) 16GB of RAM, a Toshiba NVMe drive, Intel WiFi & Bluetooth and Conexant CX8200 audio
